@@ -1,0 +1,5 @@
+# Keys, secrets and other local-only data
+*.key
+*ipynb*
+__pycache__
+venv
